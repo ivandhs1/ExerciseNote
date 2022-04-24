@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bodys{
+    border: 5px solid bla;
+
+}
+
+.box1{
+    display: none;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    bottom: 25%;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.box2{
+    display: none;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.colorWhite{
+    background-color: white;
+}
+
+.btnCancelBox{
+    border: 5px solid white;
+    border-radius:10px;
+}
